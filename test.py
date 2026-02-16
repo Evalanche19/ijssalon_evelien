@@ -1,0 +1,1 @@
+print(f"Vandaag in de aanbieding: vanille-ijs, 1 liter - slechts € 2.4000000000000004".index("0"))
